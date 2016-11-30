@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TheMathChips</string>
+
+    //activity_main.xml
+    <string name="welcometxt">Welcome To Math Chips</string>
+    <string name="introtxt">The ultimate application that offers guides and resources to master your algebra skills.</string>
+    <string name="continuebtn">Press here to continue</string>
+
+    //activity_main_menu.xml
+    <string name="mainmenutxt">Main Menu</string>
+    <string name="choosetxt">Please choose one of the following topics</string>
+    <string name="hello_world">Hi</string>
+</resources>
